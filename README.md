@@ -9,6 +9,7 @@ NOT WORKING
 - Buck converter is working (outputs 5V when powered)
 - BUT: voltage persists at the IN terminals (0.8V - 1.6V) of the Buck converter even when the switch is off
 - Current leakage somewhere in the circuit
+- **Video:** [Gimbal structure assembly] https://youtube.com/shorts/tiyTtlmbnWM?feature=share
 
 ## What Works
 
